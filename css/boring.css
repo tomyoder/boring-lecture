@@ -1,18 +1,15 @@
 
+.intro {
 
-h2.intro {
-  font-size: 60px;
-}
-
-p.intro {
-  color: blue;
-}
-
-img.intro {
-  
   border: 5px solid blue;
   display: block;
   margin: auto;
   width: 75%;
+  color: blue;
+  font-size: 60px;
 
+}
+ul {
+  color: black;
+  font-size: 30px;
 }
